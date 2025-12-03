@@ -1,0 +1,5 @@
+{
+  "python.venvPath": "${workspaceFolder}/.venv",
+  "editor.formatOnSave": true,
+  "ruff.interpreter": ["${workspaceFolder}/.venv/bin/python"]
+}
